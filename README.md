@@ -1,4 +1,4 @@
-# ⚡ J.A.R.V.I.S. - Autonomous AI Personal Assistant
+# ⚡ F.R.I.D.A.Y. - Autonomous AI Personal Assistant
 
 An advanced, lightweight, and extensible autonomous AI agent capable of real-time voice conversation, social media automation, desktop control, and web agent capabilities.
 
