@@ -22,7 +22,7 @@ response = openai.ChatCompletion.create(
   frequency_penalty=0,
   presence_penalty=0
 )
-
+#i think this is static modde
 print(response)
 
 
