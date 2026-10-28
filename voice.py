@@ -116,3 +116,6 @@ def winSpeak(query):
 
 def gttsSpeak(query):
     speak(query)
+
+
+# work one deb
